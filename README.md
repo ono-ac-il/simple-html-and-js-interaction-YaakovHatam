@@ -6,3 +6,5 @@
 
 [תרגיל 2: בדיקת שובר קפה](ex2.md)
 
+
+https://github.com/microsoft/Web-Dev-For-Beginners
